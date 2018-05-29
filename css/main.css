@@ -25,8 +25,8 @@ h1 {
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
+	font-weight: 700;
+	line-height: 28px;
 }
 h3 {
 	font-family: Verdana, Geneva, sans-serif;
@@ -34,7 +34,7 @@ h3 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 15.4px;
+	line-height: 18px;
 }
 p {
 	font-family: Verdana, Geneva, sans-serif;
@@ -42,7 +42,7 @@ p {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
-	line-height: 20px;
+	line-height: 16px;
 }
 blockquote {
 	font-family: Verdana, Geneva, sans-serif;
