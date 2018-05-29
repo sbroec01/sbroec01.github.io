@@ -3,6 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+	'border-bottom: 2px solid #d5d5d5;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 80%;
 	font-style: normal;
@@ -11,7 +12,6 @@ nav ul, footer ul {
 	line-height: 100%;
 	padding: 0px;
     	list-style: none;
-	border-bottom: 2px solid #d5d5d5;
 }
 nav ul li, footer ul li {
     display: inline;
