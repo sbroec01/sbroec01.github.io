@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-	'border-bottom: 2px solid #d5d5d5;
+	/* border-bottom: 2px solid #d5d5d5; */
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 80%;
 	font-style: normal;
