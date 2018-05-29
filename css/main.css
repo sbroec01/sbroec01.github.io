@@ -11,6 +11,7 @@ nav ul, footer ul {
 	line-height: 100%;
 	padding: 0px;
     	list-style: none;
+	border-top: 2px solid #d5d5d5;
 }
 nav ul li, footer ul li {
     display: inline;
