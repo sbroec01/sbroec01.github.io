@@ -1,84 +1,33 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
-nav ul, footer ul {
-	/* border-bottom: 2px solid #d5d5d5; */
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 80%;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: bold;
-	line-height: 100%;
-	padding: 0px;
-    	list-style: none;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
+body { margin: 60px auto; width: 70%; }
 
-h1 {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 240%;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 700;
-	line-height: 265%;
-}
-h3 {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 150%;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 165%;
-}
-p {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 100%;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 110%;
-	color: #333;
-}
-blockquote {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 180%;
-	font-style: italic;
-	font-variant: small-caps;
-	font-weight: 400;
-	line-height: 190%;
-}
-pre {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 110%;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 125%;
-}
+a { text-decoration: none; color: #999; }
+a:hover { text-decoration: underline; }
 
-footer {
-	border-top: 5px solid #d5d5d5;
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 80%;
-}
+h1, h2, h3, h4, p, pre, footer, blockquote { Verdana, Geneva, sans-serif; }
 
-ul.posts { 
-	margin: 20px auto 40px; 
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 150%;
-}
+h1 { font-size: 300%; font-style: normal; font-variant: normal; font-weight: 700; line-height: 330%; }
+h2 { font-size: 260%; font-style: normal; font-variant: normal; font-weight: 700; line-height: 285%; }
+h3 { font-size: 240%; font-style: italic; font-variant: normal; font-weight: 700; line-height: 265%; }
+h4 { font-size: 180%; font-style: normal; font-variant: normal; font-weight: 700; line-height: 200%; }
 
-ul.posts li {
-    list-style: none;
-}
+p, ul { font-size: 120%; font-weight: 400; line-height: 150%; color: #4d8080; }
+pre { font-size: 120%; font-weight: 400; line-height: 135%; }
+
+nav ul, footer ul { font-size: 88%; font-family: Verdana, Geneva, sans-serif; padding: 0px; list-style: none; line-height: 100%; font-weight: bold; }
+nav ul li, footer ul li { display: inline; margin-right: 20px; }
+
+blockquote { font-size: 160%;	font-style: italic; font-variant: small-caps; font-weight: 400;	line-height: 180%; color: #2F4F4F; }
+
+footer { border-top: 1px solid #d5d5d5; font-size: 85%; }
+
+/* Blog */
+ul.posts { margin: 20px auto 40px; font-family: Verdana, Geneva, sans-serif; font-size: 150%; }
+ul.posts li { list-style: none; }
+
+/* CV */
+.cv { margin: 0px 0px 60px; }
+.cv h1 { font-size: 3em; }
+.cv h2 { font-size: 2em; }
+.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv address, .cv p { font-size: 1.2em; }
+.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
