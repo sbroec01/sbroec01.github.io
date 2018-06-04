@@ -16,9 +16,14 @@ As Kanye West said:
 - Item 3
    - Item 3a
    - Item 3b
-   
-Accelerating transformation with our assets and experience to each client situation, in a collaborative manner to produce results 
-- Co-creating business and architecture blueprints
-- Co-creating end to end digital transformation roadmaps
-- Identification of blockers and enablers 
-- Advisory Services to accelerate digital foundations e.g. directional and detailed business cases, new governance models and target IT operating models
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+Column 1|column 2|column £
+Co-creating business and architecture blueprints|Co-creating end to end digital transformation roadmaps|Identification of blockers and enablers
+1|2|3
