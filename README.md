@@ -24,6 +24,6 @@ As Kanye West said:
 | zebra stripes | are neat      |    $1 |
 
 
-Column 1|column 2|column £
-Co-creating business and architecture blueprints|Co-creating end to end digital transformation roadmaps|Identification of blockers and enablers
-1|2|3
+Column 1 | column 2 | column £
+Co-creating business and architecture blueprints | Co-creating end to end digital transformation roadmaps | Identification of blockers and enablers
+1 | 2 | 3
