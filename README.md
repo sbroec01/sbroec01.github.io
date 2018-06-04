@@ -6,12 +6,14 @@
 - [ ] this is an incomplete item
 
 As Kanye West said:
-
 > We're living the future so
 > the present is our past.
 
+|
+|----------|-----------|
+| cell 1   | cell 2    |
+| another  | a fourth  |
 
-- Item 1
 - Item 2
 - Item 3
    - Item 3a
@@ -25,7 +27,6 @@ As Kanye West said:
 
 
 Column 1 | column 2 | column £
-
 --- | --- | ---
 Co-creating business and architecture blueprints | Co-creating end to end digital transformation roadmaps | Identification of blockers and enablers
 1 | 2 | 3
